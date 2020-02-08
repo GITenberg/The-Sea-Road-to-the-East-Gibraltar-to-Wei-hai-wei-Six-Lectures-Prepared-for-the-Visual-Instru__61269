@@ -1,0 +1,27 @@
+_repo: The-Sea-Road-to-the-East-Gibraltar-to-Wei-hai-wei-Six-Lectures-Prepared-for-the-Visual-Instru__61269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sargent, A. J. (Arthur John)
+    alias: Sargent, Arthur John
+    birthdate: 1871
+    deathdate: 1947
+    gutenberg_agent_id: '51332'
+    url: http://www.gutenberg.org/2009/agents/51332
+description: ''
+gutenberg_issued: '2020-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61269'
+  lccn: '20014726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travel -- Guidebooks'
+- !lcc 'G'
+- GITenberg
+title: "The Sea Road to the East, Gibraltar to Wei-hai-wei\r\nSix Lectures Prepared\
+  \ for the Visual Instruction Committee of the Colonial Office"
+url: http://www.gutenberg.org/ebooks/61269
